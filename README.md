@@ -1,4 +1,4 @@
-## Padrões de emojis 💈
+## Padrões de Commits 💈
 
 <table>
   <thead>
